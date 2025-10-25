@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">💻 A passionate learner and web developer from Bangladesh<br><br>🌱 I’m currently learning **FULL Stack & UI/UX **<br>🤝 I’m looking to collaborate on Web Development Projects<br>📫 Reach me at: <a href=" shahriarnoyon5599@gmail.com"> <li>  shahriarnoyon5599@gmail.com </li> </a> </h3>
+<h3 align="left">💻 A passionate learner and web developer from Bangladesh<br><br> <li>🌱 I’m currently learning **FULL Stack & UI/UX **</li> <br> <li>🤝 I’m looking to collaborate on Web Development Projects</li> <br> <li>📫 Reach me at: <a href="shahriarnoyon5599@gmail.com"> shahriarnoyon5599@gmail.com </a></li> </h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<div align="center">
+<div  align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="60" alt="javascript logo"  />
 </div>
 
