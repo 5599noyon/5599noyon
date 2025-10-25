@@ -183,20 +183,20 @@
 
 <br>
 
-<h1 align="center">🔗 Links</h1>
+<h1 align="center">♻️ Social Media </h1>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="46px" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="46px" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="46px" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="46px" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="60px" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="60px" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="60px" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="60px" alt="gmail logo"  />
   <a href="017905355" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="46px" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="60px" alt="whatsapp logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="46px" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="46px" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="60px" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="60px" alt="instagram logo"  />
 </div>
 
 <br>
@@ -220,7 +220,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="55px" alt="linkedin logo"  />
+  <img src="https://camo.githubusercontent.com/f494a5f75c535478de4161d2c314608f4ba48d6f864fe8bc9b8e6b19899d3102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d4646373133393f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d7768697465" height="55px" alt="linkedin logo"  />
+  <img src="https://camo.githubusercontent.com/b38b096af756695c6acd839338fdf761a79e7282ab4b42b8d1fdd3f8c5d2ffa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="55px" alt="linkedin logo"  />
+  <img src="https://camo.githubusercontent.com/6723a45621e6197824551348b77c1c53bcea98b01d526523db0918093cf2ff3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5570776f726b2d3646444134343f7374796c653d666f722d7468652d6261646765266c6f676f3d7570776f726b266c6f676f436f6c6f723d7768697465" height="55px" alt="linkedin logo"  />
 </div>
 
 <br>
