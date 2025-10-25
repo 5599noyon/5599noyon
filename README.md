@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">💻 A passionate learner and web developer from Bangladesh<br><br>🌱 I’m currently learning **FULL Stack & UI/UX **<br>🤝 I’m looking to collaborate on Web Development Projects<br>📫 Reach me at: <a href="mailto:shahriarnoyon5599@gmail.com"> shahriarnoyon5599@gmail.com </a> </h3>
+<h3 align="left">💻 A passionate learner and web developer from Bangladesh<br><br>🌱 I’m currently learning **FULL Stack & UI/UX **<br>🤝 I’m looking to collaborate on Web Development Projects<br>📫 Reach me at: <a href=" shahriarnoyon5599@gmail.com"> <li>  shahriarnoyon5599@gmail.com </li> </a> </h3>
 
 ###
 
