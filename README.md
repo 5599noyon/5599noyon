@@ -22,12 +22,6 @@
       <li>🤝 I’m looking to collaborate on Web Development Projects</li> <br>
       <li> 📫 Reach me at: <a href="mailto:shahriarnoyon5599@gmail.com">shahriarnoyon5599@gmail.com</a> </li>
     </h3>
-    <br>
-    <br>
-    <div align="center">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=5599noyon.5599noyon&"  />
-    </div>
-
   </div>
 </div>
 
@@ -283,5 +277,9 @@
 <h3 align="left">As a Full-Stack Developer, I am driven by a passion for building scalable, user-focused, and innovative digital solutions. Combining strong front-end design skills with robust back-end logic, I strive to create seamless experiences that bridge creativity and functionality. My goal is to continuously learn emerging technologies, write clean and efficient code, and contribute to projects that make a meaningful impact. With a deep commitment to problem-solving and collaboration, I aim to deliver solutions that not only meet but exceed user and business expectations.</h3>
 
 <br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=5599noyon.5599noyon&"  />
+</div>
 
 <br>
