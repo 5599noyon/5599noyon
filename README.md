@@ -71,7 +71,7 @@
 
 <br>
 
-<h3 align="center">🉑 Languages</h3>
+<h1 align="center">🉑 Languages</h1>
 
 <br>
 
@@ -87,7 +87,7 @@
 
 <br>
 
-<h3 align="center">⚛️ Front-End Development</h3>
+<h1 align="center">⚛️ Front-End Development</h1>
 
 <br>
 
@@ -113,7 +113,7 @@
 
 <br>
 
-<h3 align="center">⚛️ Back-End Development</h3>
+<h1 align="center">⚛️ Back-End Development</h1>
 
 <br>
 
@@ -131,7 +131,7 @@
 
 <br>
 
-<h3 align="center">🔐 BaaS</h3>
+<h1 align="center">🔐 BaaS</h1>
 
 <br>
 
@@ -157,7 +157,7 @@
 
 <br>
 
-<h3 align="center">🖌️ Design Tools</h3>
+<h1 align="center">🖌️ Design Tools</h1>
 
 <br>
 
@@ -183,7 +183,7 @@
 
 <br>
 
-<h3 align="center">♻️ Social Media </h3>
+<h1 align="center">♻️ Social Media </h1>
 
 <br>
 
@@ -215,7 +215,7 @@
 
 <br>
 
-<h3 align="center">🔗 Links</h3>
+<h1 align="center">🔗 Links</h1>
 
 <br>
 
