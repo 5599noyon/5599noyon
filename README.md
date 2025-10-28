@@ -63,7 +63,7 @@
 
 <br>
 
-<h1 align="center">⚡ Technical Skills ⚡</h1>
+<h1 style=" border: none; " align="center">⚡ Technical Skills ⚡</h1>
 
 <br>
 
@@ -71,12 +71,14 @@
 
 <br>
 
-<h1 align="center">🉑 Languages</h1>
+<h3 align="center">🉑 Languages</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="60" alt="javascript logo"  />
+  <img width="74" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="60" alt="typescript logo"  />
 </div>
 
 <br>
@@ -85,7 +87,7 @@
 
 <br>
 
-<h1 align="center">⚛️ Front-End Development</h1>
+<h3 align="center">⚛️ Front-End Development</h3>
 
 <br>
 
@@ -98,11 +100,9 @@
   <img width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60px" alt="html5 logo"  />
   <img width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60px" alt="npm logo"  />
-  <img width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60px" alt="redux logo"  />
   <img width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60px" alt="tailwindcss logo"  />
+   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
   <img width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60px" alt="nextjs logo"  />
 </div>
@@ -113,7 +113,7 @@
 
 <br>
 
-<h1 align="center">⚛️ Back-End Development</h1>
+<h3 align="center">⚛️ Back-End Development</h3>
 
 <br>
 
@@ -131,7 +131,7 @@
 
 <br>
 
-<h1 align="center">🔐 BaaS</h1>
+<h3 align="center">🔐 BaaS</h3>
 
 <br>
 
@@ -157,7 +157,7 @@
 
 <br>
 
-<h1 align="center">🖌️ Design Tools</h1>
+<h3 align="center">🖌️ Design Tools</h3>
 
 <br>
 
@@ -183,7 +183,7 @@
 
 <br>
 
-<h1 align="center">♻️ Social Media </h1>
+<h3 align="center">♻️ Social Media </h3>
 
 <br>
 
@@ -215,7 +215,7 @@
 
 <br>
 
-<h1 align="center">🔗 Links</h1>
+<h3 align="center">🔗 Links</h3>
 
 <br>
 
