@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=FA0000&center=true&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B+%2C+I'm+Noyon%3F;I'm+Interested+In+Learning+New+Skills+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I'M+Expert+In+Web+Development+%E2%9C%8D%EF%B8%8F;I'm+Looking+To+Collaborate+On+....+%F0%9F%A4%9D" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=FA0000&center=true&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B+%2C+I'm+Noyon;I'm+Interested+In+Learning+New+Skills+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I'M+Expert+In+Web+Development+%E2%9C%8D%EF%B8%8F;I'm+Looking+To+Collaborate+On+....+%F0%9F%A4%9D" alt="Typing SVG" /></a></h1>
 
 <br>
 
